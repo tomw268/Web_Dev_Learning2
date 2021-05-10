@@ -2,7 +2,7 @@ body {
   background-color: black;
 }
 
-h1 {
+#heading {
   color: red;
   font-size: 200px;
   text-align: center;
