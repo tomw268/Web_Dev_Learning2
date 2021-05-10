@@ -7,14 +7,15 @@ h1 {
   font-size: 200px;
   text-align: center;
 }
+.bacon {
+  background-color: green;
+}
 
-img {
+.broccoli {
   background-color: red;
-  align-self: center;
 }
 
 p {
   color: red;
   text-align: center;
 }
-10006497310
