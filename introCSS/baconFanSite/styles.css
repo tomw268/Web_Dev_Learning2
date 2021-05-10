@@ -14,7 +14,13 @@ body {
 .broccoli {
   background-color: red;
 }
+.circular {
+  border-radius: 100%;
+}
 
+img:hover {
+  background-color: gold;
+}
 p {
   color: red;
   text-align: center;
