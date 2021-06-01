@@ -5,9 +5,10 @@ body {
   background-color: #184d47;
 }
 h1 {
-  margin: 50px auto 0 auto;
+  margin: 50px auto 0;
   font-family: 'Roboto', sans-serif;
   color: #96bb7c;
+
   /* font size is this times 16 */
   font-size: 5rem;
 }
@@ -15,15 +16,24 @@ h2 {
   font-family: 'Open Sans', sans-serif;
   color: #96bb7c;
   font-size: 2.5rem;
+  /* for the practice */
+  font-weight: normal;
+  line-height: 4;
 }
 h3 {
   font-family: 'Open Sans', sans-serif;
-  color: #96bb7c;
+
+  /* color: #96bb7c;  color i want to use*/
+  /* practice coloring */
+  color: #11999e;
 }
 P {
   color: #fad586;
 }
-
+a {
+  /* for the challange */
+  color: #11999e;
+}
 .top-section {
   position: relative;
   padding-top: 100px;
