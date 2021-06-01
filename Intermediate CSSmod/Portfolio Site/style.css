@@ -16,16 +16,12 @@ h2 {
   font-family: 'Open Sans', sans-serif;
   color: #96bb7c;
   font-size: 2.5rem;
-  /* for the practice */
-  font-weight: normal;
-  line-height: 4;
+  line-height: 2;
 }
 h3 {
   font-family: 'Open Sans', sans-serif;
 
-  /* color: #96bb7c;  color i want to use*/
-  /* practice coloring */
-  color: #11999e;
+  color: #96bb7c;
 }
 P {
   color: #fad586;
@@ -54,4 +50,10 @@ a {
   position: absolute;
   left: 300px;
   bottom: 300px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
 }
