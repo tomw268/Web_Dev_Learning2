@@ -2,8 +2,11 @@
   background-color: #ff4c68;
 }
 h1 {
-  font-family: Montserrat;
-  font-size: 3rem;
+  font-family: Montserrat-Black;
+  font-size: 3em;
   font-weight: 900;
   line-height: 1.5;
+}
+.container-fluid {
+  padding: 3% 15%;
 }
