@@ -1,9 +1,10 @@
 body {
-  font-family: Monserrat-Black;
+  font-family: Monserrat;
 }
 
 #title {
   background-color: #ff4c68;
+  color: white;
 }
 h1 {
   font-family: Montserrat-Black;
