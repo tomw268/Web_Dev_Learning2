@@ -52,6 +52,9 @@ h1 {
   font-family: Montserrat-bold;
   font-size: 1.5rem;
 }
+section p {
+  color: #8f8f8f;
+}
 .check-circle {
   color: #ef8172;
 }
