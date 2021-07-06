@@ -51,3 +51,7 @@ h1 {
 #features {
   flex-direction: row;
 }
+
+.check-circle:hover {
+  color: green;
+}
