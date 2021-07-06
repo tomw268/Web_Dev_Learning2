@@ -49,9 +49,27 @@ h1 {
 }
 
 #features {
-  flex-direction: row;
+  font-family: Montserrat-bold;
+  font-size: 1.5rem;
+}
+.check-circle {
+  color: #ef8172;
+}
+.bullseye {
+  color: #ef8172;
+}
+.heart {
+  color: #ef8172;
 }
 
 .check-circle:hover {
   color: green;
+}
+
+.bullseye:hover {
+  color: indigo;
+}
+
+.heart:hover {
+  color: gold;
 }
