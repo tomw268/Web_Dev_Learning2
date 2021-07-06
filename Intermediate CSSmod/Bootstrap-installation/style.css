@@ -51,6 +51,11 @@ h1 {
 #features {
   font-family: Montserrat-bold;
   font-size: 1.5rem;
+  padding: 7% 15%;
+}
+.feature-box {
+  text-align: center;
+  padding: 5%;
 }
 section p {
   color: #8f8f8f;
