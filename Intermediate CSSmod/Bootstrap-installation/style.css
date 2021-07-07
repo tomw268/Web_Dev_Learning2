@@ -107,3 +107,8 @@ section p {
   text-align: center;
   padding-bottom: 3%;
 }
+
+.press-images {
+  width: 12%;
+  margin: 20px 20px 50px;
+}
