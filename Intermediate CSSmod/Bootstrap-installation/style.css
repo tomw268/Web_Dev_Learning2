@@ -49,7 +49,7 @@ h1 {
 }
 
 #features {
-  font-family: Montserrat-bold;
+  font-family: Montserrat-Bold;
   font-size: 1.5rem;
   padding: 7% 15%;
 }
@@ -80,4 +80,10 @@ section p {
 
 .heart:hover {
   color: gold;
+}
+
+#testimonials {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ef8172;
 }
