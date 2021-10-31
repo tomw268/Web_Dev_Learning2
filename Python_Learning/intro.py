@@ -19,3 +19,18 @@
 
 #  Developer Fundamentals
 #  Don't read the dictionary aka do not try to learn everything at the first time using it.
+
+
+# Operator Precedence
+#  order
+# () brackets
+# ** power of
+
+# print((20-3) + 2 ** 2)
+# *
+# /
+# +
+# -
+
+# print(20 - 3 * 4)
+# 8
