@@ -34,3 +34,8 @@
 
 # print(20 - 3 * 4)
 # 8
+
+#  Variables
+
+iq = 190
+print(iq)
