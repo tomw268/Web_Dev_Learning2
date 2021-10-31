@@ -37,11 +37,16 @@
 
 #  Variables
 
-iq = 190
-print(iq)
+# iq = 190
+# print(iq)
+
+# user_age = iq / 5
+# print(user_age)
+
+# user_age = 32
+# print(user_age)
+
+# Expressions VS Statements
+iq = 100
 
 user_age = iq / 5
-print(user_age)
-
-user_age = 32
-print(user_age)
