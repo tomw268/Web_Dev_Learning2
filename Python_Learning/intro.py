@@ -15,5 +15,7 @@
 
 # math functions
 
-print(round(3.1))
-print(abs(-20))
+#
+
+#  Developer Fundamentals
+#  Don't read the dictionary aka do not try to learn everything at the first time using it.
