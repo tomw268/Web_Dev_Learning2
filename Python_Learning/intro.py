@@ -47,6 +47,14 @@
 # print(user_age)
 
 # Expressions VS Statements
-iq = 100
+# iq = 100
 
-user_age = iq / 5
+# user_age = iq / 5
+
+#  Augmented Assignmant Operator
+
+some_value = 5
+print(some_value)
+# Augmented Assignment Operator
+some_value += 2
+print(some_value)
