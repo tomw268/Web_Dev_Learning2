@@ -86,5 +86,5 @@ print(type(str(100)))
 
 #  Escape Sequences
 
-weather = 'It\'s kind of Sunny'
+weather = ' \t It\'s kind of Sunny \n Hope you have a great day!'
 print(weather)
