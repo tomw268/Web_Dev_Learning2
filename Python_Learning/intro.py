@@ -77,3 +77,8 @@ O O
 '''
 
 print(long_string)
+
+
+#  TYPE CONVERSION
+
+print(type(str(100)))
