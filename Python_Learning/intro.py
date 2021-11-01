@@ -82,3 +82,9 @@ print(long_string)
 #  TYPE CONVERSION
 
 print(type(str(100)))
+
+
+#  Escape Sequences
+
+weather = 'It\'s kind of Sunny'
+print(weather)
