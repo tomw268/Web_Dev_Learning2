@@ -53,8 +53,27 @@
 
 #  Augmented Assignmant Operator
 
-some_value = 5
-print(some_value)
-# Augmented Assignment Operator
-some_value += 2
-print(some_value)
+# some_value = 5
+# print(some_value)
+# # Augmented Assignment Operator
+# some_value += 2
+# print(some_value)
+
+
+# STRINGS
+
+my_name = "Tom Walker"
+
+hello = 'hello there '
+
+print(hello + my_name)
+
+# Long Strings aka muliti line strings
+
+long_string = '''
+WOW
+O O
+---
+'''
+
+print(long_string)
