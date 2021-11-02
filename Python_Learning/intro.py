@@ -95,4 +95,4 @@ print(weather)
 name = 'Johnny'
 age = 55
 
-print(f'Hi {name}. You are {age} years old')
+print('Hi {}. You are {} years old'.format('Johnny', '55'))
