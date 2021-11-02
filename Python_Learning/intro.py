@@ -88,3 +88,11 @@ print(type(str(100)))
 
 weather = ' \t It\'s kind of Sunny \n Hope you have a great day!'
 print(weather)
+
+
+#  Formatted Strings
+
+name = 'Johnny'
+age = 55
+
+print(f'Hi {name}. You are {age} years old')
