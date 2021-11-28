@@ -96,3 +96,7 @@ name = 'Johnny'
 age = 55
 
 print('Hi {}. You are {} years old'.format('Johnny', '55'))
+
+
+# String Indexes
+
