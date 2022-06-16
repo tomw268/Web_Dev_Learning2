@@ -4,3 +4,8 @@ li {
   line-height: 2;
   letter-spacing: 1px;
 }
+
+h1 {
+  font-size: 55px;
+  text-align: center;
+}
