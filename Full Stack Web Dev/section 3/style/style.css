@@ -1,16 +1,6 @@
-h1,
-h2 {
-  color: teal;
-  font-size: 40px;
-}
 p,
-h2,
 li {
-  color: violet;
-  font-size: 1.5em;
-  border: 1px solid blue;
-}
-
-a {
-  color: yellowgreen;
+  font-size: 17px;
+  line-height: 2;
+  letter-spacing: 1px;
 }
