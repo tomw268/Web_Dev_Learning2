@@ -12,3 +12,6 @@ console.log(myData);
 myData[1] = 'Tom Walker';
 
 console.log(myData);
+
+myData.push('Oregon');
+console.log(myData);
