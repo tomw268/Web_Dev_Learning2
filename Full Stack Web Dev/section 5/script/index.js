@@ -31,3 +31,7 @@ console.log(age);
 let myCars = ['toyota', 'toyota 4runner'];
 console.log(myCars);
 console.log(myCars[1]);
+
+// object data types
+let person = { firstName: 'Tom', lastName: 'Walker' };
+console.log(person);
