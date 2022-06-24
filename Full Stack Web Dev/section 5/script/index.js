@@ -25,3 +25,4 @@ console.log(myName);
 // Number data type
 let age = 34;
 console.log(age);
+// boolean is true or flase
