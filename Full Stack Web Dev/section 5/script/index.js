@@ -15,3 +15,13 @@ console.log(myData);
 
 myData.push('Oregon');
 console.log(myData);
+
+myData.pop();
+console.log(myData);
+
+// String data type
+let myName = 'Tom Walker';
+console.log(myName);
+// Number data type
+let age = 34;
+console.log(age);
