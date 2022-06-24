@@ -26,6 +26,8 @@ console.log(myName);
 let age = 34;
 console.log(age);
 // boolean is true or flase
+
 // Array data type
 let myCars = ['toyota', 'toyota 4runner'];
 console.log(myCars);
+console.log(myCars[1]);
