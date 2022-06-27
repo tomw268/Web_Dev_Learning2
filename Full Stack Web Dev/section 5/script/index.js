@@ -43,3 +43,10 @@ console.log(x);
 let a = 7 + 7;
 let b = '7' + 7;
 console.log(a, b);
+
+// String Operators
+
+let one = 'show me';
+let two = 'the money';
+let three = one + ' ' + two;
+console.log(three);
