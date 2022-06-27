@@ -35,3 +35,11 @@ console.log(myCars[1]);
 // object data types
 let person = { firstName: 'Tom', lastName: 'Walker' };
 console.log(person);
+
+//  Mixing Data types
+let x = ['John', 25];
+console.log(x);
+
+let a = 7 + 7;
+let b = '7' + 7;
+console.log(a, b);
