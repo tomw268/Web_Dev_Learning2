@@ -50,3 +50,9 @@ let one = 'show me';
 let two = 'the money';
 let three = one + ' ' + two;
 console.log(three);
+
+let c = 'Hello';
+
+c += ' World!';
+
+console.log(c);
