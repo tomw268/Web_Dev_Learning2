@@ -7,3 +7,6 @@ print("print('what to print')")
 
 # create new lines
 print("Hello World!\nHelloWorld!")
+
+# concstenation of strings
+print("hello" + " " + "Tom")
