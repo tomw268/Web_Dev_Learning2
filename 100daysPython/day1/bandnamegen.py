@@ -10,3 +10,5 @@ print("Hello World!\nHelloWorld!")
 
 # concstenation of strings
 print("hello" + " " + "Tom")
+
+print("Hello " + input("What is your name"))
