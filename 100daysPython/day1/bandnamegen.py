@@ -35,3 +35,16 @@ b = c
 # 🚨 Don't change the code below 👇
 print("a: " + a)
 print("b: " + b)
+
+
+# Band name generator project
+# 1. Create a greeting for your program.
+print("Welcome to Band Name Genartor")
+# 2. Ask the user for the city that they grew up in.
+
+town = input("What town did you grow up in? \n")
+# 3. Ask the user for the name of a pet.
+
+pet = input("Name of your pet? \n")
+# 4. Combine the name of their city and pet and show them their band name.
+print(town + " " + pet)
