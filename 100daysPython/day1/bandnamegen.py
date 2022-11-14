@@ -12,3 +12,6 @@ print("Hello World!\nHelloWorld!")
 print("hello" + " " + "Tom")
 
 print("Hello " + input("What is your name"))
+
+# Prints the length of the input
+print(len(input("what is your name!")))
